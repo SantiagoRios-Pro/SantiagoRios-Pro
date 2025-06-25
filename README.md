@@ -1,8 +1,5 @@
 # Who's Santiago and What's He Building? 👨‍💻
 
-
-# 👋 Hi, I’m **Santiago!**
-
 Hi 👋, I'm a Data Analyst with experience in financial analytics, forecasting, and business intelligence. Passionate about using data to drive strategic decisions and process improvements.
 
 - 📊 Analyzing structured & unstructured data using Python, R, and SQL  

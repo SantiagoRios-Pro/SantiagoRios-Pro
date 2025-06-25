@@ -8,16 +8,19 @@ Hi 👋🏻, I'm a Data Analyst with experience in financial analytics, forecast
 - Working with data in AWS (Athena, S3, Glue) and MongoDB   
 
 **📊 Projects**   
+
 Welcome to my portfolio, where I showcase recent analytics and forecasting projects.  
 [➡️ View My Projects](https://github.com/SantiagoRios-Pro?tab=repositories)
 
 **🛠️ Tools & Technologies**  
-- **Languages**: Python, R, SQL  
-- **Databases**: MySQL, Amazon Athena, MongoDB   
-- **Visualization**: Power BI, Tableau  
-- **Cloud**: AWS (S3, EC2, RDS, Glue), Oracle  
+
+- Languages: Python, R, SQL  
+- Databases: MySQL, Amazon Athena, MongoDB   
+- Visualization: Power BI, Tableau  
+- Cloud: AWS (S3, EC2, RDS, Glue), Oracle  
 
 **🤝🏻 Connect with Me**  
+
 - [📍 LinkedIn](https://linkedin.com/in/santiagorios1)  
 - [📬 Email](mailto:rios.santiago.2307@gmail.com)
 

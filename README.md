@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://YOUR-BANNER-URL.com/banner.png" alt="Santiago Rios – Data & Finance Analyst" width="100%">
-</p>
+# 📊 Who's Santiago and What's He Building? 👨‍💻
+
 
 # 👋 Hi, I’m **Santiago!**
 

@@ -17,7 +17,7 @@ Welcome to my portfolio, where I showcase recent analytics and forecasting proje
 - Languages: Python, R, SQL  
 - Databases: MySQL, Amazon Athena, MongoDB   
 - Visualization: Power BI, Tableau  
-- Cloud: AWS (S3, EC2, RDS, Glue), Oracle  
+- Cloud: AWS (S3, EC2, RDS, Glue), Azure (MySQL Database), Oracle  
 
 **🤝🏻 Connect with Me**  
 

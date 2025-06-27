@@ -5,12 +5,11 @@ Hi 👋🏻, I'm a Data Analyst with experience in financial analytics, forecast
 - Analyzing structured & unstructured data using Python and R   
 - Developing dashboards in Power BI and Tableau   
 - Building forecasting models and automation tools 
-- Working with data in AWS (Athena, S3, Glue) and MongoDB   
+- Working with data in MySQL, AWS (Athena, S3, Glue) and MongoDB   
 
 ### 📊 Projects
 
-Welcome to my portfolio, where I showcase recent analytics and forecasting projects.  
-[➡️ View My Projects](https://github.com/SantiagoRios-Pro?tab=repositories)
+Welcome to my portfolio, where I showcase my [Projects](https://github.com/SantiagoRios-Pro?tab=repositories)
 
 ### 🛠️ Tools & Technologies  
 
